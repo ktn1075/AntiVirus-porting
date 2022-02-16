@@ -1,0 +1,4 @@
+﻿  va.cpp
+C:\Users\ktn10\source\repos\va\va\va.cpp(15,23): warning C4129:  'P': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\ktn10\source\repos\va\va\va.cpp(29,22): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+  va.vcxproj -> C:\Users\ktn10\source\repos\va\Debug\va.exe
